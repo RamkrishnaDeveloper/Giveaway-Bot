@@ -3,10 +3,10 @@
 
 # Requirements
 - [Node.JS](https://nodejs.org) v16+
-- [Computer](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Subscribe](https://www.youtube.com/@krishna-coder)
 
 # Configuration
-- Download [CODE](https://github.com/BlobDeveloper/discord-giveaway-bot/archive/refs/heads/main.zip)
+- Download [CODE](https://github.com/RamkrishnaDeveloper/Giveaway-Bot/issues)
 - Open `config.js` file in `src` folder
 - Change things that are required
 - That's it, then open project in terminal and type 
@@ -73,4 +73,4 @@ If you like this project, support it with a star<br>
 <br>
 
 Did you find a bug?<br>
-Please create an issue! https://github.com/BlobDeveloper/discord-giveaways-bot/issues
+Please create an issue! https://github.com/RamkrishnaDeveloper/Giveaway-Bot/issues
